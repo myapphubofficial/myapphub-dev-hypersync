@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "changelog": "Added local storage check to prevent infinite OTA update loops. Also added a dual-version display in the Settings/About pages.",
+  "version": "2.6",
+  "changelog": "Removed the 48-hour password reset restriction.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-dev-hypersync/main/update.zip"
 }
