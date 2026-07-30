@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "changelog": "Removed the 48-hour password reset restriction.",
+  "version": "3.0",
+  "changelog": "Version 3.0: Added Offline Overlay and Fixed Password Reset Logic.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-dev-hypersync/main/update.zip"
 }
