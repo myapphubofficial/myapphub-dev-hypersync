@@ -1,5 +1,5 @@
 {
   "version": "3.0",
-  "changelog": "Version 3.0: Added Offline Overlay and Fixed Password Reset Logic.",
-  "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-dev-hypersync/main/update.zip"
+  "changelog": "Version 3.0: HyperSync 2.0 with native APK updates.",
+  "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-dev-hypersync/main/update.apk"
 }
